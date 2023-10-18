@@ -1,0 +1,90 @@
+[
+  {
+    "Circuit": "superblue16",
+    "# Over Flow": 161313,
+    "Quality Score ShortDisp": 632.92,
+    "STWL": 93600000,
+    "Runtime (s)": 447,
+    "# Over Flow__1": 166433,
+    "Quality Score LongDisp": 1166.28,
+    "STWL__1": 94800000,
+    "Runtime (s)__1": 529
+  },
+  {
+    "Circuit": "superblue18",
+    "# Over Flow": 45141,
+    "Quality Score ShortDisp": 177.75,
+    "STWL": 57700000,
+    "Runtime (s)": 227,
+    "# Over Flow__1": 45068,
+    "Quality Score LongDisp": 773.69,
+    "STWL__1": 58300000,
+    "Runtime (s)__1": 233
+  },
+  {
+    "Circuit": "superblue4",
+    "# Over Flow": 142180,
+    "Quality Score ShortDisp": 234.36,
+    "STWL": 72200000,
+    "Runtime (s)": 811,
+    "# Over Flow__1": 178009,
+    "Quality Score LongDisp": 392.05,
+    "STWL__1": 75300000,
+    "Runtime (s)__1": 985
+  },
+  {
+    "Circuit": "superblue10",
+    "# Over Flow": 479162,
+    "Quality Score ShortDisp": 71.42,
+    "STWL": 206000000,
+    "Runtime (s)": 1230,
+    "# Over Flow__1": 495306,
+    "Quality Score LongDisp": 421.86,
+    "STWL__1": 211000000,
+    "Runtime (s)__1": 2760
+  },
+  {
+    "Circuit": "superblue7",
+    "# Over Flow": 11879,
+    "Quality Score ShortDisp": 157.91,
+    "STWL": 140000000,
+    "Runtime (s)": 615,
+    "# Over Flow__1": 11847,
+    "Quality Score LongDisp": 285.05,
+    "STWL__1": 141000000,
+    "Runtime (s)__1": 622
+  },
+  {
+    "Circuit": "superblue1",
+    "# Over Flow": 205377,
+    "Quality Score ShortDisp": 389.49,
+    "STWL": 96300000,
+    "Runtime (s)": 706,
+    "# Over Flow__1": 236082,
+    "Quality Score LongDisp": 523.04,
+    "STWL__1": 98300000,
+    "Runtime (s)__1": 827
+  },
+  {
+    "Circuit": "superblue3",
+    "# Over Flow": 160746,
+    "Quality Score ShortDisp": 243.53,
+    "STWL": 114000000,
+    "Runtime (s)": 397,
+    "# Over Flow__1": 161396,
+    "Quality Score LongDisp": 726.76,
+    "STWL__1": 115000000,
+    "Runtime (s)__1": 438
+  },
+  {
+    "Circuit": "superblue5",
+    "# Over Flow": 160331,
+    "Quality Score ShortDisp": 115.63,
+    "STWL": 108000000,
+    "Runtime (s)": 385,
+    "# Over Flow__1": 179446,
+    "Quality Score LongDisp": 450.44,
+    "STWL__1": 109000000,
+    "Runtime (s)__1": 402
+  }
+]

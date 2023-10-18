@@ -1,0 +1,182 @@
+[
+  {
+    "Design": "adaptec1.inf",
+    "GP_HPWL(e6)": 92.4601,
+    "Leg_HPWL(e6)": 105.983,
+    "HPWL(%)": 14.6256,
+    "Avg_Disp_#Rows": 3.63924,
+    "Max_Disp_#Rows": 422.667,
+    "runtime(s)": 8.35495
+  },
+  {
+    "Design": "adaptec2.inf",
+    "GP_HPWL(e6)": 107.677,
+    "Leg_HPWL(e6)": 117.244,
+    "HPWL(%)": 8.8851,
+    "Avg_Disp_#Rows": 3.48294,
+    "Max_Disp_#Rows": 366.25,
+    "runtime(s)": 6.38152
+  },
+  {
+    "Design": "adaptec3.inf",
+    "GP_HPWL(e6)": 240.748,
+    "Leg_HPWL(e6)": 307.447,
+    "HPWL(%)": 27.7048,
+    "Avg_Disp_#Rows": 10.0641,
+    "Max_Disp_#Rows": 1031.75,
+    "runtime(s)": 50.9659
+  },
+  {
+    "Design": "adaptec4.inf",
+    "GP_HPWL(e6)": 224.69,
+    "Leg_HPWL(e6)": 235.606,
+    "HPWL(%)": 4.85817,
+    "Avg_Disp_#Rows": 1.6529,
+    "Max_Disp_#Rows": 208.167,
+    "runtime(s)": 8.79792
+  },
+  {
+    "Design": "bigblue1.inf",
+    "GP_HPWL(e6)": 117.867,
+    "Leg_HPWL(e6)": 124.191,
+    "HPWL(%)": 5.36591,
+    "Avg_Disp_#Rows": 1.577,
+    "Max_Disp_#Rows": 209,
+    "runtime(s)": 5.7484
+  },
+  {
+    "Design": "bigblue2.inf",
+    "GP_HPWL(e6)": 178.669,
+    "Leg_HPWL(e6)": 191.039,
+    "HPWL(%)": 6.92306,
+    "Avg_Disp_#Rows": 1.78405,
+    "Max_Disp_#Rows": 284.417,
+    "runtime(s)": 9.73873
+  },
+  {
+    "Design": "bigblue4.inf",
+    "GP_HPWL(e6)": 939.691,
+    "Leg_HPWL(e6)": 980.147,
+    "HPWL(%)": 4.30528,
+    "Avg_Disp_#Rows": 1.44133,
+    "Max_Disp_#Rows": 230.75,
+    "runtime(s)": 39.9368
+  },
+  {
+    "Design": "adaptec1",
+    "GP_HPWL(e6)": 93.0373,
+    "Leg_HPWL(e6)": 95.8737,
+    "HPWL(%)": 3.04868,
+    "Avg_Disp_#Rows": 1.07236,
+    "Max_Disp_#Rows": 73.5833,
+    "runtime(s)": 1.74171
+  },
+  {
+    "Design": "adaptec2",
+    "GP_HPWL(e6)": 101.225,
+    "Leg_HPWL(e6)": 106.673,
+    "HPWL(%)": 5.38258,
+    "Avg_Disp_#Rows": 5.14683,
+    "Max_Disp_#Rows": 316.25,
+    "runtime(s)": 2.63219
+  },
+  {
+    "Design": "adaptec3",
+    "GP_HPWL(e6)": 223.764,
+    "Leg_HPWL(e6)": 266.209,
+    "HPWL(%)": 18.9685,
+    "Avg_Disp_#Rows": 9.41464,
+    "Max_Disp_#Rows": 822.75,
+    "runtime(s)": 32.6459
+  },
+  {
+    "Design": "adaptec4",
+    "GP_HPWL(e6)": 213.888,
+    "Leg_HPWL(e6)": 223.317,
+    "HPWL(%)": 4.40827,
+    "Avg_Disp_#Rows": 1.75663,
+    "Max_Disp_#Rows": 298.333,
+    "runtime(s)": 5.42534
+  },
+  {
+    "Design": "adaptec5",
+    "GP_HPWL(e6)": 376.713,
+    "Leg_HPWL(e6)": 689.61,
+    "HPWL(%)": 83.0595,
+    "Avg_Disp_#Rows": 29.055,
+    "Max_Disp_#Rows": 1077.5,
+    "runtime(s)": 283.281
+  },
+  {
+    "Design": "bigblue1",
+    "GP_HPWL(e6)": 111.977,
+    "Leg_HPWL(e6)": 114.666,
+    "HPWL(%)": 2.40149,
+    "Avg_Disp_#Rows": 0.860539,
+    "Max_Disp_#Rows": 142.583,
+    "runtime(s)": 2.01806
+  },
+  {
+    "Design": "bigblue2",
+    "GP_HPWL(e6)": 170.432,
+    "Leg_HPWL(e6)": 177.435,
+    "HPWL(%)": 4.10921,
+    "Avg_Disp_#Rows": 1.19907,
+    "Max_Disp_#Rows": 231.75,
+    "runtime(s)": 6.07435
+  },
+  {
+    "Design": "bigblue4",
+    "GP_HPWL(e6)": 898.33,
+    "Leg_HPWL(e6)": 948.093,
+    "HPWL(%)": 5.53954,
+    "Avg_Disp_#Rows": 1.74195,
+    "Max_Disp_#Rows": 376.167,
+    "runtime(s)": 30.3073
+  },
+  {
+    "Design": "newblue3",
+    "GP_HPWL(e6)": 302.087,
+    "Leg_HPWL(e6)": 306.733,
+    "HPWL(%)": 1.53806,
+    "Avg_Disp_#Rows": 0.833128,
+    "Max_Disp_#Rows": 51.5,
+    "runtime(s)": 3.98142
+  },
+  {
+    "Design": "newblue4",
+    "GP_HPWL(e6)": 288.405,
+    "Leg_HPWL(e6)": 302.691,
+    "HPWL(%)": 4.95348,
+    "Avg_Disp_#Rows": 1.75172,
+    "Max_Disp_#Rows": 250.25,
+    "runtime(s)": 9.28951
+  },
+  {
+    "Design": "newblue5",
+    "GP_HPWL(e6)": 475.792,
+    "Leg_HPWL(e6)": 638.9,
+    "HPWL(%)": 34.2813,
+    "Avg_Disp_#Rows": 8.9341,
+    "Max_Disp_#Rows": 753.083,
+    "runtime(s)": 89.0111
+  },
+  {
+    "Design": "newblue6",
+    "GP_HPWL(e6)": 530.319,
+    "Leg_HPWL(e6)": 575.606,
+    "HPWL(%)": 8.53954,
+    "Avg_Disp_#Rows": 2.20853,
+    "Max_Disp_#Rows": 521.75,
+    "runtime(s)": 27.4822
+  },
+  {
+    "Design": "newblue7",
+    "GP_HPWL(e6)": 1113.03,
+    "Leg_HPWL(e6)": 1162.73,
+    "HPWL(%)": 4.46564,
+    "Avg_Disp_#Rows": 1.7068,
+    "Max_Disp_#Rows": 931,
+    "runtime(s)": 38.9593
+  }
+]

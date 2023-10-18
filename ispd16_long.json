@@ -1,0 +1,90 @@
+[
+ {
+   "Benchmark": "superblue1",
+   "ABU": 0.01127,
+   "StWL": 99000000,
+   "eWNS": -9.25,
+   "eTNS": -36.7,
+   "lWNS": -4460,
+   "lTNS": -341000,
+   "Runtime": 322.259,
+   "QoR": 508.41
+ },
+ {
+   "Benchmark": "superblue3",
+   "ABU": 0.00756,
+   "StWL": 116000000,
+   "eWNS": -10.7,
+   "eTNS": -91,
+   "lWNS": -8380,
+   "lTNS": -933000,
+   "Runtime": 453.998,
+   "QoR": 755.54
+ },
+ {
+   "Benchmark": "superblue4",
+   "ABU": 0.04035,
+   "StWL": 75500000,
+   "eWNS": 0,
+   "eTNS": 0,
+   "lWNS": -5680,
+   "lTNS": -2360000,
+   "Runtime": 342.63,
+   "QoR": 665.55
+ },
+ {
+   "Benchmark": "superblue5",
+   "ABU": 0,
+   "StWL": 109000000,
+   "eWNS": 0,
+   "eTNS": 0,
+   "lWNS": -24600,
+   "lTNS": -5990000,
+   "Runtime": 192.475,
+   "QoR": 469.52
+ },
+ {
+   "Benchmark": "superblue7",
+   "ABU": 0.00706,
+   "StWL": 142000000,
+   "eWNS": -7.53,
+   "eTNS": -1970,
+   "lWNS": -15200,
+   "lTNS": -1380000,
+   "Runtime": 469.281,
+   "QoR": 264.42
+ },
+ {
+   "Benchmark": "superblue10",
+   "ABU": 0.01209,
+   "StWL": 211000000,
+   "eWNS": 0,
+   "eTNS": 0,
+   "lWNS": -15700,
+   "lTNS": -28000000,
+   "Runtime": 559.418,
+   "QoR": 492.91
+ },
+ {
+   "Benchmark": "superblue16",
+   "ABU": 0,
+   "StWL": 95400000,
+   "eWNS": 0,
+   "eTNS": 0,
+   "lWNS": -3460,
+   "lTNS": -196000,
+   "Runtime": 230.641,
+   "QoR": 1209.42
+ },
+ {
+   "Benchmark": "superblue18",
+   "ABU": 0.00993,
+   "StWL": 59000000,
+   "eWNS": 0,
+   "eTNS": 0,
+   "lWNS": -3810,
+   "lTNS": -645000,
+   "Runtime": 214.761,
+   "QoR": 780.9
+ }
+]

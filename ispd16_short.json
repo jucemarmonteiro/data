@@ -1,0 +1,90 @@
+[
+ {
+   "Benchmark": "superblue1",
+   "ABU": 0.00774,
+   "StWL": 97200000,
+   "eWNS": -9.25,
+   "eTNS": -50.6,
+   "lWNS": -4610,
+   "lTNS": -382000,
+   "Runtime": 392.551,
+   "QoR": 391.65
+ },
+ {
+   "Benchmark": "superblue3",
+   "ABU": 0.00742,
+   "StWL": 115000000,
+   "eWNS": -30.3,
+   "eTNS": -434,
+   "lWNS": -9400,
+   "lTNS": -1340000,
+   "Runtime": 466.46,
+   "QoR": 351.05
+ },
+ {
+   "Benchmark": "superblue4",
+   "ABU": 0.03207,
+   "StWL": 72100000,
+   "eWNS": -11.8,
+   "eTNS": -145,
+   "lWNS": -5980,
+   "lTNS": -3120000,
+   "Runtime": 310.267,
+   "QoR": 276.19
+ },
+ {
+   "Benchmark": "superblue5",
+   "ABU": 0,
+   "StWL": 108000000,
+   "eWNS": -35.8,
+   "eTNS": -291,
+   "lWNS": -25300,
+   "lTNS": -6720000,
+   "Runtime": 380.141,
+   "QoR": 149.11
+ },
+ {
+   "Benchmark": "superblue7",
+   "ABU": 0.00695,
+   "StWL": 142000000,
+   "eWNS": -7.53,
+   "eTNS": -1970,
+   "lWNS": -15200,
+   "lTNS": -1610000,
+   "Runtime": 485.148,
+   "QoR": 141.32
+ },
+ {
+   "Benchmark": "superblue10",
+   "ABU": 0.02039,
+   "StWL": 206000000,
+   "eWNS": -6.8,
+   "eTNS": -383,
+   "lWNS": -16300,
+   "lTNS": -31900000,
+   "Runtime": 708.156,
+   "QoR": 142.67
+ },
+ {
+   "Benchmark": "superblue16",
+   "ABU": 0,
+   "StWL": 94000000,
+   "eWNS": -0.548,
+   "eTNS": -0.9,
+   "lWNS": -4340,
+   "lTNS": -472000,
+   "Runtime": 389.748,
+   "QoR": 735
+ },
+ {
+   "Benchmark": "superblue18",
+   "ABU": 0.01283,
+   "StWL": 58300000,
+   "eWNS": -14.7,
+   "eTNS": -81.9,
+   "lWNS": -4140,
+   "lTNS": -948000,
+   "Runtime": 270.802,
+   "QoR": 302.28
+ }
+]
